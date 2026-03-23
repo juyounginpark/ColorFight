@@ -170,6 +170,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &980466
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -436,6 +438,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &16581274
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -613,6 +617,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &16661736
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -790,6 +796,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &23240318
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -967,6 +975,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &33918300
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -1144,6 +1154,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &36382416
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -1321,6 +1333,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &45305313
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -1498,6 +1512,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &59042820
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -1675,6 +1691,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &126179344
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -1852,6 +1870,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &141137789
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -2029,6 +2049,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &144404581
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -2206,6 +2228,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &172706315
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -2383,6 +2407,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &188485540
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -2560,6 +2586,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &213949691
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -2737,6 +2765,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &214880154
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -2914,6 +2944,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &229827303
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -3091,6 +3123,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &264812343
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -3268,6 +3302,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &279747033
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -3445,6 +3481,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &292914422
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -3622,6 +3660,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &309055942
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -3799,6 +3839,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &316649757
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -4132,6 +4174,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &345673928
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -4309,6 +4353,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &355121399
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -4486,6 +4532,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &355344734
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -4663,6 +4711,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &364940639
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -4840,6 +4890,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &382030726
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -5017,6 +5069,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &388207538
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -5194,6 +5248,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &398975352
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -5371,6 +5427,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &402967330
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -5548,6 +5606,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &404833873
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -5852,6 +5912,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &410180509
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -6029,6 +6091,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &426160392
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -6206,6 +6270,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &454448455
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -6383,6 +6449,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &459143540
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -6560,6 +6628,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &469254426
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -6737,6 +6807,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &483649805
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -6914,6 +6986,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &496614056
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -7091,6 +7165,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &498490564
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -7268,6 +7344,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &515440007
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -7445,6 +7523,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &520364509
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -7622,6 +7702,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &547945241
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -7799,6 +7881,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &572475201
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -7976,6 +8060,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &593863597
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -8153,6 +8239,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &601024612
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -8330,6 +8418,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &608630030
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -8507,6 +8597,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &609182657
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -8684,6 +8776,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &616560549
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -8861,6 +8955,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &618992084
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -9038,6 +9134,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &621146832
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -9215,6 +9313,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &628386400
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -9392,6 +9492,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &642604625
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -9569,6 +9671,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &655271928
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -9746,6 +9850,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &658734199
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -9923,6 +10029,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &668362520
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -10100,6 +10208,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &682767511
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -10277,6 +10387,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &686931385
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -10454,6 +10566,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &687664309
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -10631,6 +10745,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &692024757
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -10808,6 +10924,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &704038529
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -10985,6 +11103,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &728949603
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -11273,6 +11393,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &755751878
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -11450,6 +11572,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &758448217
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -11627,6 +11751,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &759420207
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -11804,6 +11930,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &776027066
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -11981,6 +12109,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &790343614
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -12158,6 +12288,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &798912027
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -12335,6 +12467,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &809795110
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -12512,6 +12646,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &828097570
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -12738,6 +12874,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &851829401
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -12915,6 +13053,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &854129286
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -13092,6 +13232,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &861253341
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -13269,6 +13411,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &889786708
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -13446,6 +13590,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &900550449
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -13623,6 +13769,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &904772198
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -13800,6 +13948,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &928676753
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -13977,6 +14127,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &928959038
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -14154,6 +14306,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &951190298
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -14331,6 +14485,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &965826754
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -14508,6 +14664,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &977871643
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -14685,6 +14843,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &986663765
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -14862,6 +15022,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &1018523017
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -15039,6 +15201,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &1022196050
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -15216,6 +15380,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &1025150307
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -15393,6 +15559,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &1028310803
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -15570,6 +15738,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &1059932326
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -15747,6 +15917,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &1076591212
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -15924,6 +16096,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &1105679928
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -16101,6 +16275,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &1115344571
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -16389,6 +16565,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &1134482856
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -16566,6 +16744,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &1142103677
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -16743,6 +16923,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &1175371924
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -16920,6 +17102,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &1177097102
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -17097,6 +17281,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &1198037571
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -17274,6 +17460,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &1206985388
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -17451,6 +17639,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &1207894603
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -17628,6 +17818,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &1213781629
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -17805,6 +17997,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &1248936314
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -17982,6 +18176,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &1252183081
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -18159,6 +18355,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &1275537939
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -18336,6 +18534,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &1284490058
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -18513,6 +18713,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &1292198694
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -18639,6 +18841,63 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1292198691}
   m_Mesh: {fileID: 8933486315014478940, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
+--- !u!1001 &1303406070
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 6325299134916952462, guid: de0318dff31f80947ba2017a79b70fde, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 3.87
+      objectReference: {fileID: 0}
+    - target: {fileID: 6325299134916952462, guid: de0318dff31f80947ba2017a79b70fde, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 6325299134916952462, guid: de0318dff31f80947ba2017a79b70fde, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 6.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6325299134916952462, guid: de0318dff31f80947ba2017a79b70fde, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6325299134916952462, guid: de0318dff31f80947ba2017a79b70fde, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6325299134916952462, guid: de0318dff31f80947ba2017a79b70fde, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6325299134916952462, guid: de0318dff31f80947ba2017a79b70fde, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6325299134916952462, guid: de0318dff31f80947ba2017a79b70fde, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6325299134916952462, guid: de0318dff31f80947ba2017a79b70fde, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6325299134916952462, guid: de0318dff31f80947ba2017a79b70fde, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6795468547603955039, guid: de0318dff31f80947ba2017a79b70fde, type: 3}
+      propertyPath: m_Name
+      value: RedSwiper
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: de0318dff31f80947ba2017a79b70fde, type: 3}
 --- !u!1 &1319045667
 GameObject:
   m_ObjectHideFlags: 0
@@ -18690,6 +18949,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &1319045670
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -18867,6 +19128,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &1333146235
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -19044,6 +19307,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &1338068008
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -19221,6 +19486,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &1338488435
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -19398,6 +19665,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &1344101571
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -19575,6 +19844,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &1368338782
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -19752,6 +20023,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &1374524476
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -19929,6 +20202,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &1379561015
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -20106,6 +20381,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &1396870994
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -20283,6 +20560,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &1405455855
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -20460,6 +20739,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &1421965920
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -20586,6 +20867,63 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1421965917}
   m_Mesh: {fileID: 8933486315014478940, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
+--- !u!1001 &1423105818
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1496423642105158783, guid: 671d31f55e2ae394c8653abbcceace8f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.91
+      objectReference: {fileID: 0}
+    - target: {fileID: 1496423642105158783, guid: 671d31f55e2ae394c8653abbcceace8f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 1496423642105158783, guid: 671d31f55e2ae394c8653abbcceace8f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 2.32
+      objectReference: {fileID: 0}
+    - target: {fileID: 1496423642105158783, guid: 671d31f55e2ae394c8653abbcceace8f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1496423642105158783, guid: 671d31f55e2ae394c8653abbcceace8f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1496423642105158783, guid: 671d31f55e2ae394c8653abbcceace8f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1496423642105158783, guid: 671d31f55e2ae394c8653abbcceace8f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1496423642105158783, guid: 671d31f55e2ae394c8653abbcceace8f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1496423642105158783, guid: 671d31f55e2ae394c8653abbcceace8f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1496423642105158783, guid: 671d31f55e2ae394c8653abbcceace8f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8621803945153014782, guid: 671d31f55e2ae394c8653abbcceace8f, type: 3}
+      propertyPath: m_Name
+      value: RedBase (1)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 671d31f55e2ae394c8653abbcceace8f, type: 3}
 --- !u!1 &1439636818
 GameObject:
   m_ObjectHideFlags: 0
@@ -20637,6 +20975,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &1439636821
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -20814,6 +21154,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &1485820169
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -20991,6 +21333,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &1495334008
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -21168,6 +21512,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &1529920305
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -21345,6 +21691,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &1534388526
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -21522,6 +21870,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &1535647767
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -21699,6 +22049,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &1539153120
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -21876,6 +22228,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &1560995909
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -22053,6 +22407,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &1579399625
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -22230,6 +22586,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &1586697203
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -22407,6 +22765,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &1638313955
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -22584,6 +22944,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &1643114798
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -22761,6 +23123,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &1646699636
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -22938,6 +23302,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &1657597466
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -23115,6 +23481,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &1661210612
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -23292,6 +23660,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &1674816162
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -23469,6 +23839,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &1704423236
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -23646,6 +24018,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &1709178701
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -23873,6 +24247,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &1743991550
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -24050,6 +24426,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &1758458447
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -24227,6 +24605,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &1758557439
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -24404,6 +24784,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &1767251934
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -24581,6 +24963,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &1771448365
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -24758,6 +25142,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &1777472754
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -24935,6 +25321,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &1783597969
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -25061,6 +25449,67 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1783597966}
   m_Mesh: {fileID: 8933486315014478940, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
+--- !u!1001 &1828525807
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 97c13b87289d18c4b95f2e8bcc4872ba, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 10.13
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 97c13b87289d18c4b95f2e8bcc4872ba, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 97c13b87289d18c4b95f2e8bcc4872ba, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 24.13
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 97c13b87289d18c4b95f2e8bcc4872ba, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.92387956
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 97c13b87289d18c4b95f2e8bcc4872ba, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 97c13b87289d18c4b95f2e8bcc4872ba, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.38268343
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 97c13b87289d18c4b95f2e8bcc4872ba, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 97c13b87289d18c4b95f2e8bcc4872ba, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 97c13b87289d18c4b95f2e8bcc4872ba, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -45
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 97c13b87289d18c4b95f2e8bcc4872ba, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 97c13b87289d18c4b95f2e8bcc4872ba, type: 3}
+      propertyPath: m_Name
+      value: BlueSwiper
+      objectReference: {fileID: 0}
+    - target: {fileID: 4844400378375424028, guid: 97c13b87289d18c4b95f2e8bcc4872ba, type: 3}
+      propertyPath: rotateSpeed
+      value: 60
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 97c13b87289d18c4b95f2e8bcc4872ba, type: 3}
 --- !u!1 &1848315910
 GameObject:
   m_ObjectHideFlags: 0
@@ -25112,6 +25561,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &1848315913
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -25289,6 +25740,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &1852627862
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -25466,6 +25919,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &1862926445
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -25643,6 +26098,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &1866802422
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -25820,6 +26277,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &1880340097
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -25997,6 +26456,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &1909469957
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -26174,6 +26635,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &1920958298
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -26351,6 +26814,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &1948414912
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -26528,6 +26993,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &1950259631
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -26705,6 +27172,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &1959297647
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -26882,6 +27351,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &1984676001
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -27059,6 +27530,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &1996935446
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -27236,6 +27709,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &2005236746
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -27413,6 +27888,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &2016671490
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -27590,6 +28067,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &2024727993
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -27767,6 +28246,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &2027903632
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -27944,6 +28425,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &2032279890
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -28121,6 +28604,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &2035364929
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -28298,6 +28783,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &2056129919
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -28475,6 +28962,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &2102323934
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -28652,6 +29141,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &2108871821
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -28829,6 +29320,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &2110591818
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -29006,6 +29499,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TileController
   redPrefab: {fileID: 919132149155446097, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
   bluePrefab: {fileID: 919132149155446097, guid: e13aeeec29d0d8d4c81beb1ef5eefaf0, type: 3}
+  bounceHeight: 0.4
+  bounceDuration: 0.35
 --- !u!54 &2120529145
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -29132,6 +29627,63 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2120529142}
   m_Mesh: {fileID: 8933486315014478940, guid: 60325c50771f2e34daf980a76f4dec87, type: 3}
+--- !u!1001 &1081804350272043730
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1496423642105158783, guid: 671d31f55e2ae394c8653abbcceace8f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 12.79
+      objectReference: {fileID: 0}
+    - target: {fileID: 1496423642105158783, guid: 671d31f55e2ae394c8653abbcceace8f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 1496423642105158783, guid: 671d31f55e2ae394c8653abbcceace8f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 2.32
+      objectReference: {fileID: 0}
+    - target: {fileID: 1496423642105158783, guid: 671d31f55e2ae394c8653abbcceace8f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1496423642105158783, guid: 671d31f55e2ae394c8653abbcceace8f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1496423642105158783, guid: 671d31f55e2ae394c8653abbcceace8f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1496423642105158783, guid: 671d31f55e2ae394c8653abbcceace8f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1496423642105158783, guid: 671d31f55e2ae394c8653abbcceace8f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1496423642105158783, guid: 671d31f55e2ae394c8653abbcceace8f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1496423642105158783, guid: 671d31f55e2ae394c8653abbcceace8f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8621803945153014782, guid: 671d31f55e2ae394c8653abbcceace8f, type: 3}
+      propertyPath: m_Name
+      value: RedBase
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 671d31f55e2ae394c8653abbcceace8f, type: 3}
 --- !u!1001 &3011595782365206166
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -29189,6 +29741,99 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 974ae562f700cb34687716f91b8ee043, type: 3}
+--- !u!1 &5953017163205946158 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 371218487204619402, guid: 755e001755f7c6c4e8467ac8019a41e8, type: 3}
+  m_PrefabInstance: {fileID: 6470539756217767943}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6470539756217767943
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 371218487204619402, guid: 755e001755f7c6c4e8467ac8019a41e8, type: 3}
+      propertyPath: m_Name
+      value: RedHammer
+      objectReference: {fileID: 0}
+    - target: {fileID: 5288160752698838052, guid: 755e001755f7c6c4e8467ac8019a41e8, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 12.32
+      objectReference: {fileID: 0}
+    - target: {fileID: 5288160752698838052, guid: 755e001755f7c6c4e8467ac8019a41e8, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 4.54
+      objectReference: {fileID: 0}
+    - target: {fileID: 5288160752698838052, guid: 755e001755f7c6c4e8467ac8019a41e8, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 14.39
+      objectReference: {fileID: 0}
+    - target: {fileID: 5288160752698838052, guid: 755e001755f7c6c4e8467ac8019a41e8, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 5288160752698838052, guid: 755e001755f7c6c4e8467ac8019a41e8, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5288160752698838052, guid: 755e001755f7c6c4e8467ac8019a41e8, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 5288160752698838052, guid: 755e001755f7c6c4e8467ac8019a41e8, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5288160752698838052, guid: 755e001755f7c6c4e8467ac8019a41e8, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5288160752698838052, guid: 755e001755f7c6c4e8467ac8019a41e8, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: 5288160752698838052, guid: 755e001755f7c6c4e8467ac8019a41e8, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 371218487204619402, guid: 755e001755f7c6c4e8467ac8019a41e8, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 7960489096278638130}
+  m_SourcePrefab: {fileID: 100100000, guid: 755e001755f7c6c4e8467ac8019a41e8, type: 3}
+--- !u!114 &7960489096278638130
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5953017163205946158}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 171985c3e6461684fb8ea0e1f901e8c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::hammer
+  idleAngle: 8
+  idleSpeed: 2
+  buildAngle: 18
+  buildSpeed: 5
+  buildTime: 1
+  windupAngle: -20
+  windupDuration: 0.15
+  swingAngle: 90
+  swingDuration: 0.5
+  holdDuration: 0.08
+  returnDuration: 0.5
+  interval: 3
+  shakeAmount: 0.06
+  shakeDuration: 0.1
+  camShakeAmount: 0.2
+  camShakeDuration: 0.25
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
@@ -29199,3 +29844,8 @@ SceneRoots:
   - {fileID: 1743557609}
   - {fileID: 3011595782365206166}
   - {fileID: 7235503}
+  - {fileID: 1303406070}
+  - {fileID: 1828525807}
+  - {fileID: 6470539756217767943}
+  - {fileID: 1081804350272043730}
+  - {fileID: 1423105818}

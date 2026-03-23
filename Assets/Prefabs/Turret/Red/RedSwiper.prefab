@@ -216,6 +216,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0dd1edd3207560541b5714ae127b3845, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Swiper
-  rotateSpeed: 90
+  rotateSpeed: 150
   paintRed: 0
   paintBlue: 0
+  changeCooldown: 0.1

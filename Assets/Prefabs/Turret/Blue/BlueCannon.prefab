@@ -194,7 +194,7 @@ GameObject:
   - component: {fileID: 6232598215569551850}
   m_Layer: 0
   m_Name: BlueCannon
-  m_TagString: Untagged
+  m_TagString: BlueTurret
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -296,7 +296,7 @@ MonoBehaviour:
   launchSpeed: 15
   dotRadius: 0.3
   ballPrefab: {fileID: 8583048653053928759, guid: 4ea087cc511e1c04b86920721b6de603, type: 3}
-  fireInterval: 5
+  fireInterval: 0.5
   ballParent: {fileID: 0}
   recoilDistance: 0.3
   recoilDuration: 0.08
