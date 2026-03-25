@@ -12,6 +12,9 @@ TagManager:
   - RedMan
   - BlueMan
   - BlueTurret
+  - RedTurret
+  - RedFlag
+  - BlueFlag
   layers:
   - Default
   - TransparentFX

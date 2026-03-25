@@ -23,7 +23,7 @@ public class Army : MonoBehaviour
     private void Start()
     {
         _isRed          = gameObject.CompareTag("RedMan");
-        _enemyTurretTag = _isRed ? "BlueTurret" : "RedTurret";
+        _enemyTurretTag = _isRed ? "BlueFlag" : "RedFlag";
         _killBallTag    = _isRed ? "BlueBall"   : "RedBall";
         _animator       = GetComponentInChildren<Animator>();
 

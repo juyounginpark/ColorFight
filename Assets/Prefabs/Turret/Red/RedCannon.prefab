@@ -155,7 +155,7 @@ GameObject:
   - component: {fileID: 847842951610804867}
   m_Layer: 0
   m_Name: RedCannon
-  m_TagString: Untagged
+  m_TagString: RedTurret
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -257,6 +257,12 @@ MonoBehaviour:
   dotRadius: 0.3
   ballPrefab: {fileID: 4574550483458751473, guid: 2b28349ffafc25d488935c2650b240a0, type: 3}
   fireInterval: 0.5
+  ballParent: {fileID: 0}
+  recoilDistance: 0.3
+  recoilDuration: 0.08
+  returnDuration: 0.25
+  baseTiltAngle: 3
+  shakeAmount: 0.05
 --- !u!1 &4229241627577698280
 GameObject:
   m_ObjectHideFlags: 0
